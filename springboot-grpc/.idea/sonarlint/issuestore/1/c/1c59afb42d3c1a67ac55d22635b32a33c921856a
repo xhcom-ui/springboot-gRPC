@@ -1,0 +1,4 @@
+
+]squid:UselessImportCheck"-Remove this unused import 'sun.awt.SunHints'.(”Š¸Îþÿÿÿÿ8üÎŠÐ„-
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(”Š¸Îþÿÿÿÿ8üÎŠÐ„-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å‚Ïˆùÿÿÿÿ8üÎŠÐ„-

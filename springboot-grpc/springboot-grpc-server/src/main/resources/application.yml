@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: springboot-grpc-server
+
+server:
+  port: 8080
+
+grpc:
+  server:
+    port: 20820
